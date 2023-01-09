@@ -1,1 +1,7 @@
-{}
+{
+  "livePreview": false,
+  "vimMode": true,
+  "spellcheckLanguages": [
+    "en-CA"
+  ]
+}

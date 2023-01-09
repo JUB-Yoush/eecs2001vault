@@ -15,7 +15,7 @@
               "state": {
                 "file": "halting-problem.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -27,7 +27,7 @@
               "state": {
                 "file": "model-of-computation.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -39,7 +39,7 @@
               "state": {
                 "file": "turing-machine.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -51,7 +51,7 @@
               "state": {
                 "file": "turing-completeness.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -61,9 +61,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "string.md",
+                "file": "languages.md",
                 "mode": "source",
-                "source": false
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f3085bccb82af82b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "languages.md",
+                "mode": "source",
+                "source": true
               }
             }
           },
@@ -75,7 +87,7 @@
               "state": {
                 "file": "languages.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -83,12 +95,8 @@
             "id": "43370ee5062f2b66",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "language-operations.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -99,7 +107,7 @@
               "state": {
                 "file": "finite-state-machine.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -117,14 +125,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deterministic-finite-automaton.md",
+                "file": "string.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -153,7 +161,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "lan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "deterministic-finite-automaton.md",
+                "file": "languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "deterministic-finite-automaton.md",
+                "file": "languages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "deterministic-finite-automaton.md"
+                "file": "languages.md"
               }
             }
           }
@@ -251,16 +259,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc1f27e7d7603c0b",
+  "active": "f3085bccb82af82b",
   "lastOpenFiles": [
-    "automaton.md",
-    "finite-state-machine.md",
     "language-operations.md",
     "languages.md",
+    "Set.md",
     "string.md",
     "turing-completeness.md",
+    "deterministic-finite-automaton.md",
+    "automaton.md",
+    "finite-state-machine.md",
     "turing-machine.md",
-    "model-of-computation.md",
-    "halting-problem.md"
+    "model-of-computation.md"
   ]
 }
