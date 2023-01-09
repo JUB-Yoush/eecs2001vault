@@ -5,8 +5,7 @@
 - languages are sets and we can preform operations on them like any other set
 
 ### union
-- checks which values are the same between two sets
-
-```
-
-```
+- checks which values are the same between two sets:
+	Language A = {mango, orange}
+	Language B = {green, orange}
+	Language A $\cup$ Language B = {orange}
