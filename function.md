@@ -9,6 +9,3 @@
 
 
 
-### predicate-or-property
-- a function who's range is {TRUE,FALSE}
-- 

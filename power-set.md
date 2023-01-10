@@ -1,0 +1,1 @@
+- the power set of A is the [[set]] of all subsets of A. If A is the set {0,1}, the pwoer if set of A is {0,1} the power set of A is a set of every subset of a, so it would be {{$\emptyset$},{0},{1},{0,1}}

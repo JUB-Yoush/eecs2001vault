@@ -8,63 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ae54e91998beac27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "function.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "18118f077cae3666",
+            "id": "c8088b725de2f6c8",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "4647b342002c865a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "predicate.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7c313052b1ff094c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "function-notation.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1137059a0568afc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "k-ary.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,17 +139,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "18118f077cae3666",
+  "active": "c8088b725de2f6c8",
   "lastOpenFiles": [
+    "automata-theory.md",
+    "complexity-theory.md",
+    "computability-theory.md",
+    "concatenation.md",
+    "cross-product.md",
     "domain-range.md",
     "function.md",
-    "predicate.md",
-    "languages.md",
-    "model-of-computation.md",
-    "sequences.md",
     "function-notation.md",
-    "k-ary.md",
-    "set-and-sequence.md",
-    "string.md"
+    "graphs.md",
+    "halting-problem.md"
   ]
 }
