@@ -44,24 +44,12 @@
             }
           },
           {
-            "id": "450e3db3f8d5be0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "set.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "49fd6f9a00bd4e66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "automaton.md",
+                "file": "set.md",
                 "mode": "source",
                 "source": true
               }
@@ -195,17 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "450e3db3f8d5be0a",
+  "active": "49fd6f9a00bd4e66",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "set.md",
     "automaton.md",
     "automata-theory.md",
-    "set.md",
     "model-of-computation.md",
     "computability-theory.md",
     "deterministic-finite-automaton.md",
     "finite-state-machine.md",
     "halting-problem.md",
-    "languages.md",
-    "complexity-theory.md"
+    "languages.md"
   ]
 }
