@@ -1,4 +1,3 @@
-#todo
 #notation 
 - a funciton is an input and output relationship
 - also considered mappings, as $f(a)=b$ can be considered "a maps to b"

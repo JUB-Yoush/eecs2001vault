@@ -1,3 +1,4 @@
+ #notation 
 - we can have [[set|sets]] that have infinte amounts of values by figuring out what kind of values should be in the set
 	- a set of all the natural numbers 
 	- a set of all intergers

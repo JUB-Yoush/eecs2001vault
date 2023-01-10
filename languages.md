@@ -1,4 +1,4 @@
-- [[set-and-sequence|sets]] of [[string|Strings]] 
+- [[set|sets]] of [[string|Strings]] 
 - for every string in each set, we say the string is in the language
 
 ## language-operations

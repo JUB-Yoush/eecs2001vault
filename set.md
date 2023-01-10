@@ -1,4 +1,4 @@
-#notation 
+ #notation 
 - unoredered group of objects represented as a unit, they can contain numbers, words, or any kind of abstract element
 - the order and repition do not matter
 - S = {7,21,57} is a set containing 7,21 and 57
