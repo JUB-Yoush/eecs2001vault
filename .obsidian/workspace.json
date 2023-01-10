@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2a68fe585911c07c",
+        "id": "8871b260cbdd1e97",
         "type": "tabs",
         "children": [
           {
-            "id": "778f34594f074e6b",
+            "id": "ae54e91998beac27",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lan",
-                "matchingCase": false,
+                "query": "subset",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -147,17 +147,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "778f34594f074e6b",
+  "active": "ae54e91998beac27",
   "lastOpenFiles": [
     "set-and-sequence.md",
+    "string.md",
+    "turing-completeness.md",
+    "turing-machine.md",
     "sequences.md",
-    "functions.md",
-    "automaton.md",
-    "complexity-theory.md",
+    "model-of-computation.md",
     "languages.md",
-    "graphs.md",
-    "Untitled.canvas",
-    "automata-theory.md",
-    "model-of-computation.md"
+    "halting-problem.md",
+    "functions.md",
+    "graphs.md"
   ]
 }

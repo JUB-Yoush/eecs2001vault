@@ -12,7 +12,7 @@
 - sets usually ignore duplicates, however you can take the number of occurances of members into account by using a multiset instead of a set
 - the set {7} and {7,7} are the same set but different multisets
 
-### infinite sets
+### infinite set
 - we can have sets that have infinte amounts of values by figuring out what kind of values should be in the set
 	- a set of all the natural numbers 
 	- a set of all intergers
@@ -23,7 +23,7 @@
 	- {-6,-3,0,3,6}
 - some common infinte sets have letters associated to represent them, you can find a list of them [here](https://www.rapidtables.com/math/symbols/Set_Symbols.html)
 
-### subsets
+### subset
 - Set A is a subset of Set B if every member of A is also a member of B
 - this is represented by the $\subseteq$ symbol
 - it could also be a proper subset, which means A is not equal to B (A is not a subset of B because they're the same set), represented by the $\subset$
