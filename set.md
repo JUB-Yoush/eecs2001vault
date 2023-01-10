@@ -7,8 +7,23 @@
 	- 7 $\in$ S is true 
 	- 57 $\not \in$ set is false
 
-- sets with dupes
-- infinite sets
+### multiset
+- sets usually ignore duplicates, however you can take the number of occurances of members into account by using a multiset instead of a set
+- the set {7} and {7,7} are the same set but different multisets
+
+### infinite sets
+- we can have sets that have infinte amounts of values by figuring out what kind of values should be in the set
+	- a set of all the natural numbers 
+	- a set of all intergers
+	- a set of all the intergers multiplied by 3
+- we can't write these sets out, so we represent them with ... in place of where the rest of the values would go 
+	- {1,2,3,...}
+	- {... -2,-1,0,1,2...}
+	- {-6,-3,0,3,6}
+- some common infinte sets have letters associated to represent them
+| symbol | contains |
+| ------ | -------- |
+| $       |          |
 
 ### subsets
 - Set A is a subset of Set B if every member of A is also a member of B
