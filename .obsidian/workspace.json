@@ -8,131 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "21cafbdce5565bb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "halting-problem.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "474302ac23e8a458",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "model-of-computation.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b4dc1152893d54a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "turing-machine.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "4dd0057f0f70334f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "turing-completeness.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6b62dcb828fe688d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "languages.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f3085bccb82af82b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "languages.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9e585927163aec54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "languages.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "43370ee5062f2b66",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "8155a318b1a6991c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "finite-state-machine.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "192ec5ddeaa05371",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "dc1f27e7d7603c0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "string.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -259,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f3085bccb82af82b",
+  "active": "4dd0057f0f70334f",
   "lastOpenFiles": [
-    "language-operations.md",
-    "languages.md",
-    "Set.md",
     "string.md",
     "turing-completeness.md",
+    "languages.md",
+    "turing-machine.md",
+    "language-operations.md",
+    "Set.md",
     "deterministic-finite-automaton.md",
     "automaton.md",
     "finite-state-machine.md",
-    "turing-machine.md",
     "model-of-computation.md"
   ]
 }
