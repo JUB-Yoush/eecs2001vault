@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sequences.md",
+                "file": "functions.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sequences.md",
+                "file": "functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sequences.md",
+                "file": "functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sequences.md"
+                "file": "functions.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "778f34594f074e6b",
   "lastOpenFiles": [
-    "functions.md",
+    "set-and-sequence.md",
     "sequences.md",
-    "set.md",
+    "functions.md",
     "automaton.md",
     "complexity-theory.md",
     "languages.md",
