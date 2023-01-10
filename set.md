@@ -20,10 +20,7 @@
 	- {1,2,3,...}
 	- {... -2,-1,0,1,2...}
 	- {-6,-3,0,3,6}
-- some common infinte sets have letters associated to represent them
-| symbol | contains |
-| ------ | -------- |
-| $       |          |
+- some common infinte sets have letters associated to represent them, you can find a list of them [here](https://www.rapidtables.com/math/symbols/Set_Symbols.html)
 
 ### subsets
 - Set A is a subset of Set B if every member of A is also a member of B
@@ -32,6 +29,8 @@
 
 
 ### intersection
+- an operation that returns the values that two sets share
 
 ### union
+- an operation that joins the values of two sets together
 
