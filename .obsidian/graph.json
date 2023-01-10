@@ -5,8 +5,23 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "todo",
+      "color": {
+        "a": 1,
+        "rgb": 16060175
+      }
+    },
+    {
+      "query": "notation",
+      "color": {
+        "a": 1,
+        "rgb": 5417696
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -18,5 +33,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 1,
-  "close": true
+  "close": false
 }
