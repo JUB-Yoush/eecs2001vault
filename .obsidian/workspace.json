@@ -30,9 +30,45 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "b6d2c347547b2d44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "complexity-theory.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "450e3db3f8d5be0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "set.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "49fd6f9a00bd4e66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "automaton.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "languages.md",
+                "file": "set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "languages.md",
+                "file": "set.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "languages.md"
+                "file": "set.md"
               }
             }
           }
@@ -159,17 +195,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "572052370c812775",
+  "active": "450e3db3f8d5be0a",
   "lastOpenFiles": [
-    "string.md",
-    "turing-completeness.md",
-    "languages.md",
-    "turing-machine.md",
-    "language-operations.md",
-    "Set.md",
-    "deterministic-finite-automaton.md",
     "automaton.md",
+    "automata-theory.md",
+    "set.md",
+    "model-of-computation.md",
+    "computability-theory.md",
+    "deterministic-finite-automaton.md",
     "finite-state-machine.md",
-    "model-of-computation.md"
+    "halting-problem.md",
+    "languages.md",
+    "complexity-theory.md"
   ]
 }

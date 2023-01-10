@@ -1,0 +1,2 @@
+- what makes some promblems computationally hard and others easy?
+- we don't know.
