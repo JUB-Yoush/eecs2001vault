@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "undirected-graph.md",
+                "file": "boolean-logic.md",
                 "mode": "source",
                 "source": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "directed",
+                "query": "boolean ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "undirected-graph.md",
+                "file": "boolean-logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "undirected-graph.md",
+                "file": "boolean-logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "undirected-graph.md"
+                "file": "boolean-logic.md"
               }
             }
           }
@@ -239,14 +239,14 @@
   "active": "115c6bfed9f2fe9c",
   "lastOpenFiles": [
     "directed-graph.md",
+    "Excalidraw/graph-ref.md",
+    "set.md",
     "undirected-graph.md",
     "graph.md",
     "graph-edge.md",
     "graph-path.md",
     "languages.md",
-    "Excalidraw/graph-ref.md",
     "Untitled.canvas",
-    "Pasted image 20230111180517.png",
-    "tuple.md"
+    "Pasted image 20230111180517.png"
   ]
 }
