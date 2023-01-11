@@ -4,5 +4,6 @@
   "theme": "obsidian",
   "textFontFamily": "Ubuntu Mono",
   "monospaceFontFamily": "Fira Mono",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "enabledCssSnippets": []
 }

@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "graph-edge.md",
+                "file": "undirected-graph.md",
                 "mode": "source",
                 "source": true
               }
@@ -99,16 +99,14 @@
             "id": "2b3acbae82502d11",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "graph.md",
-                "mode": "preview",
-                "source": true
+                "file": "Excalidraw/graph-ref.md"
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "strong",
+                "query": "directed",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,7 +152,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -174,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "graph.md",
+                "file": "undirected-graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "graph.md",
+                "file": "undirected-graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "graph.md"
+                "file": "undirected-graph.md"
               }
             }
           }
@@ -233,20 +232,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "2b3acbae82502d11",
+  "active": "115c6bfed9f2fe9c",
   "lastOpenFiles": [
-    "tuple.md",
-    "sequence.md",
-    "set.md",
+    "directed-graph.md",
+    "undirected-graph.md",
+    "graph.md",
+    "graph-edge.md",
+    "graph-path.md",
+    "languages.md",
+    "Excalidraw/graph-ref.md",
     "Untitled.canvas",
-    "function-equvilance.md",
-    "function.md",
-    "function-notation.md",
-    "infinte-set.md",
-    "multiset.md",
-    "power-set.md"
+    "Pasted image 20230111180517.png",
+    "tuple.md"
   ]
 }
