@@ -94,9 +94,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "2b3acbae82502d11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "graph.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -162,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "function.md",
+                "file": "graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "function.md",
+                "file": "graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "function.md"
+                "file": "graph.md"
               }
             }
           }
@@ -224,17 +236,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d2daf6164307b7a",
+  "active": "2b3acbae82502d11",
   "lastOpenFiles": [
+    "tuple.md",
+    "sequence.md",
+    "set.md",
+    "Untitled.canvas",
+    "function-equvilance.md",
+    "function.md",
     "function-notation.md",
     "infinte-set.md",
     "multiset.md",
-    "power-set.md",
-    "set.md",
-    "function-k-ary.md",
-    "function.md",
-    "graph-node.md",
-    "graph-path.md",
-    "node-degree.md"
+    "power-set.md"
   ]
 }
