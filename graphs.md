@@ -1,4 +1,0 @@
-#notation 
-#todo 
-
-### undirected graph

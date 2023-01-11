@@ -1,0 +1,1 @@
+- a [[node|nodes]] degree is the number of [[edge|edges]] attached to it

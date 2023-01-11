@@ -26,9 +26,77 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "115c6bfed9f2fe9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "edge.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4f045515b31216d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "undirected-graph.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0cb86d07c8b143d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "graph-path.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "72bc677bb33c9bb1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "3a6e34090061df91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "strongly-connected-graph.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5d2daf6164307b7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "directed-graph.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -57,8 +125,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "subset",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -94,6 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "directed-graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "directed-graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +201,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "directed-graph.md"
+              }
             }
           }
         ]
@@ -152,17 +224,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "96e11a70ff42d3a5",
+  "active": "5d2daf6164307b7a",
   "lastOpenFiles": [
-    "tuple.md",
-    "languages.md",
-    "concatenation.md",
-    "domain-range.md",
-    "string.md",
-    "set-and-sequence.md",
-    "intersection.md",
-    "computability-theory.md",
-    "cross-product.md",
-    "function.md"
+    "strongly-connected-graph.md",
+    "node-degree.md",
+    "edge.md",
+    "node.md",
+    "graph-path.md",
+    "tree.md",
+    "undirected-graph.md",
+    "graph.md",
+    "boolean-logic.md",
+    "tuple.md"
   ]
 }
