@@ -1,1 +1,0 @@
-a connection between two [[node]] in a [[graph]]

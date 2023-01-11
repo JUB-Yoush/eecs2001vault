@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "edge.md",
+                "file": "graph-edge.md",
                 "mode": "source",
                 "source": true
               }
@@ -87,12 +87,8 @@
             "id": "5d2daf6164307b7a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "directed-graph.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -115,7 +111,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -125,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "strong",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,7 +158,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "directed-graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +174,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "directed-graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,9 +195,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "directed-graph.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -226,15 +218,15 @@
   },
   "active": "5d2daf6164307b7a",
   "lastOpenFiles": [
-    "strongly-connected-graph.md",
-    "node-degree.md",
-    "edge.md",
-    "node.md",
+    "graph-node.md",
+    "multiset.md",
+    "function-notation.md",
+    "function.md",
     "graph-path.md",
-    "tree.md",
-    "undirected-graph.md",
-    "graph.md",
-    "boolean-logic.md",
-    "tuple.md"
+    "node-degree.md",
+    "graph-edge.md",
+    "strongly-connected-graph.md",
+    "directed-graph.md",
+    "undirected-graph.md"
   ]
 }
