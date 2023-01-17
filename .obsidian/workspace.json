@@ -13,8 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "languages.md",
-                "mode": "preview",
+                "file": "sequence.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b8bb93f8498ddd38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jav-file.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -106,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,8 +164,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "boolean-logic.md",
+                "file": "jav-file.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "boolean-logic.md",
+                "file": "jav-file.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "boolean-logic.md"
+                "file": "jav-file.md"
               }
             }
           }
@@ -236,17 +247,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "115c6bfed9f2fe9c",
+  "active": "b8bb93f8498ddd38",
   "lastOpenFiles": [
-    "directed-graph.md",
-    "Excalidraw/graph-ref.md",
-    "set.md",
-    "undirected-graph.md",
-    "graph.md",
-    "graph-edge.md",
-    "graph-path.md",
+    "sequence.md",
     "languages.md",
-    "Untitled.canvas",
-    "Pasted image 20230111180517.png"
+    "set.md",
+    "string.md",
+    "strongly-connected-graph.md",
+    "subset.md",
+    "turing-completeness.md",
+    "tuple.md",
+    "tree.md",
+    "turing-machine.md"
   ]
 }
