@@ -1,0 +1,4 @@
+- [[proof#theorem|theorem]]: $\sqrt{2}$ is an irrational number
+- Proof: Assume that $\sqrt{2}$ is a rational number, meaning there exists a pair of intergers whose ratio is $\sqrt{2}$
+	- if the two intergers have a common factor, it can be eliminated
+	- 
