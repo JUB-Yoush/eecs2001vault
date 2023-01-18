@@ -1,0 +1,4 @@
+- a compulational model 
+- Example: door opener
+	- there is a door opener
+	- it makes decisions based on rules
