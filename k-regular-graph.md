@@ -1,0 +1,1 @@
+- a k regular graph means that every [[node-degree]] of [[graph-node|nodes]] on the [[graph]] is k (arbitrary interger)
