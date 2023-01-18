@@ -1,0 +1,2 @@
+- a series of statements that prove a [[proof]] directly
+- also known as a proof-by-construction
